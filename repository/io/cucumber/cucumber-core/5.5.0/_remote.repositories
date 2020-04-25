@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 23 21:18:31 AEDT 2020
+cucumber-core-5.5.0-sources.jar>central=
+cucumber-core-5.5.0.jar>central=
+cucumber-core-5.5.0.pom>central=

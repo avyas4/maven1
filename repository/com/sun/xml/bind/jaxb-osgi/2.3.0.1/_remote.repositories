@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 20 19:13:26 AEDT 2020
+jaxb-osgi-2.3.0.1-sources.jar>central=
+jaxb-osgi-2.3.0.1.jar>central=
+jaxb-osgi-2.3.0.1.pom>central=
